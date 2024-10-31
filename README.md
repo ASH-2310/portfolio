@@ -1,10 +1,10 @@
 # Abdullah's Portfolio
 # Education 
-### MS (Specialization: Accounting & Analytics)                                                                                                                   2024 
+### MS (*Specialization: Accounting & Analytics*) -                                                                                                                  2024 
 *Lahore University of Management Sciences*
 ### Relevant Courses: 
 Business Analytics, Business Intelligence, Analytics in Accounting, Advance Machine Learning, Data Science Decision Making, Information Systems, Supply Chain Analytics & Systems
-### BBA (Specialization: Human Resource Management)   	 	                                                                                                        2023 
+### BBA (*Specialization: Human Resource Management*) - 	 	                                                                                                         2023 
 *Forman Christian College (A Chartered university), Lahore*
 # Projects
 ## Sports Analytics Project
@@ -17,10 +17,11 @@ Business Analytics, Business Intelligence, Analytics in Accounting, Advance Mach
 >**Real-World Impact:** Contributed to the success of a real-world sports organization by providing actionable insights that improved team performance and decision-making.
 ### Findings 
 Based on my analysis, Oakland would need following figures in order to make it to the playoffs \
-* **Runs Scored = 827**\
-* **Runs Allowed = 604**\
-* **Runs Difference = 223**\
+* **Runs Scored = 827**
+* **Runs Allowed = 604**
+* **Runs Difference = 223**
 * **Wins = 103**\
+  
 *According to our model, teams with atleast 103 wins have 97% chances of getting in the playoffs.*\
 This graph depicts runs scored vs wins with non-playoff teams in red, playoff teams in green & historical performance of oakland atheletics in yellow. 
 ![Image-1](https://github.com/user-attachments/assets/bc819637-57a9-4f69-8d9b-55c7ccaf1f1b)\
