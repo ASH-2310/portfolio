@@ -29,7 +29,7 @@ This graph depicts runs allowed vs wins with teams allowing less runs have a gre
 ![Image-2](https://github.com/user-attachments/assets/d386b99b-5ac3-46bc-a315-41b6ada7fb4d)\
 This graph depicts a positive linear relationship between runs difference & wins
 ![Image-3](https://github.com/user-attachments/assets/2d6052b5-e9dc-4dd3-b6ed-3995fec9659b)\
-For Details: [Sports-Analytics-Project](https://ash-2310.github.io/Sports-Analytics-Project/)
+For Details: [Sports-Analytics-Project](https://github.com/ASH-2310/Sports-Analytics-Project)
 
 
 
