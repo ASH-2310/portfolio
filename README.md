@@ -16,11 +16,11 @@ Business Analytics, Business Intelligence, Analytics in Accounting, Advance Mach
 >**Successful Application of Machine Learning:** Applied machine learning techniques (linear and logistic regression) to accurately predict game outcomes and assess player performance.\
 >**Real-World Impact:** Contributed to the success of a real-world sports organization by providing actionable insights that improved team performance and decision-making.
 ### Findings 
-Based on my analysis, Oakland would need following figures in order to make it to the playoffs \
+Based on my analysis, Oakland would need following figures in order to make it to the playoffs 
 * **Runs Scored = 827**
 * **Runs Allowed = 604**
 * **Runs Difference = 223**
-* **Wins = 103**\
+* **Wins = 103**
   
 *According to our model, teams with atleast 103 wins have 97% chances of getting in the playoffs.*\
 This graph depicts runs scored vs wins with non-playoff teams in red, playoff teams in green & historical performance of oakland atheletics in yellow. 
