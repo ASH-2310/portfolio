@@ -24,15 +24,19 @@ Based on my analysis, Oakland would need following figures in order to make it t
   
 *According to our model, teams with atleast 103 wins have 97% chances of getting in the playoffs.*\
 This graph depicts runs scored vs wins with non-playoff teams in red, playoff teams in green & historical performance of oakland atheletics in yellow. 
-![Image-1](https://github.com/user-attachments/assets/bc819637-57a9-4f69-8d9b-55c7ccaf1f1b)\
+
+![Image-1](https://github.com/user-attachments/assets/bc819637-57a9-4f69-8d9b-55c7ccaf1f1b)
+
 This graph depicts runs allowed vs wins with teams allowing less runs have a greater history of making it to the playoffs
-![Image-2](https://github.com/user-attachments/assets/d386b99b-5ac3-46bc-a315-41b6ada7fb4d)\
+
+![Image-2](https://github.com/user-attachments/assets/d386b99b-5ac3-46bc-a315-41b6ada7fb4d)
 
 This graph depicts a positive linear relationship between runs difference & wins
-![Image-3](https://github.com/user-attachments/assets/2d6052b5-e9dc-4dd3-b6ed-3995fec9659b)\
+
+![Image-3](https://github.com/user-attachments/assets/2d6052b5-e9dc-4dd3-b6ed-3995fec9659b)
 
 ## [2. AirBnb Project](https://github.com/ASH-2310/AirBnB-Project)
-*(Improving AirBnb's service based revenue model by analyzing customer sentiment and identifying key trends in their feedback through clustering techniques.)*\
+*(Improving AirBnb's service based revenue model by analyzing customer sentiment and identifying key trends in their feedback through clustering techniques.)*
 ### Exploratory Data Analysis(EDA)
 *Data Exploration was an important step to understand the actual problem*
 
