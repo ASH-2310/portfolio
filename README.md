@@ -15,6 +15,7 @@
 >**Cost-Effective Strategy:** Successfully implemented a cost-effective strategy to build a competitive team by identifying undervalued players and exploiting market inefficiencies.\
 >**Successful Application of Machine Learning:** Applied machine learning techniques (linear and logistic regression) to accurately predict game outcomes and assess player performance.\
 >**Real-World Impact:** Contributed to the success of a real-world sports organization by providing actionable insights that improved team performance and decision-making.
+
 ### Findings 
 Based on my analysis, Oakland would need following figures in order to make it to the playoffs 
 * **Runs Scored = 827**
@@ -42,12 +43,12 @@ This graph depicts a positive linear relationship between runs difference & wins
 
 ![EDA](https://github.com/user-attachments/assets/f6678392-2303-4ac3-a27b-0f2953f38c21)
 
-## Value Creation
+### Value Creation
 >**Data-Driven Service Optimization:** Sentiment analysis of online reviews provided actionable insights for improving Airbnb Paris' service offerings and operational processes. This data-driven approach ensures continuous improvement based on customer feedback.\
 >**Targeted Customer Acquisition:** By identifying positive sentiment trends associated with specific features (e.g., lower price, more beds/baths), Airbnb Paris can tailor its marketing strategies to attract customers who value those aspects.\
 >**Improved Customer Satisfaction:** Addressing concerns identified through negative sentiment can significantly improve customer satisfaction. This fosters loyalty and encourages positive reviews, attracting more customers.\
 >**Revenue Growth Potential:** By optimizing services based on customer preferences and addressing negative sentiment factors, Airbnb Paris can potentially attract a wider customer base and increase overall revenue.\
->**Data-driven Decision Making:** This analysis demonstrates the effectiveness of sentiment analysis and clustering in understanding customer feedback and informing business decisions. This approach can be replicated for future strategies.\
+>**Data-driven Decision Making:** This analysis demonstrates the effectiveness of sentiment analysis and clustering in understanding customer feedback and informing business decisions. This approach can be replicated for future strategies.
 
 Graph below depicts optimal number of clusters based on the sentiment score 
 
@@ -57,12 +58,14 @@ Graph provided below suggests a significant difference in sentiment score for th
 
 ![Cluster Comparison](https://github.com/user-attachments/assets/2ca752e6-0bb6-4581-9831-4e55be883aed)
 
-## Findings 
+### Findings 
+*Here is what we can do to improve sentiment score based our findings*
+
 * Reduce average price for low performing properties
 * Reduce security deposit for low performing properties
 * Reduce cleaning fee
 * Provide extra beds for low performing properties
-* Increase baths
+* Increase bathrooms for low performing properties
 
 
 
