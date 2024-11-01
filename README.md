@@ -43,11 +43,11 @@ This graph depicts a positive linear relationship between runs difference & wins
 ![EDA](https://github.com/user-attachments/assets/f6678392-2303-4ac3-a27b-0f2953f38c21)
 
 ## Value Creation
->**Data-Driven Service Optimization:** Sentiment analysis of online reviews provided actionable insights for improving Airbnb Paris' service offerings and operational processes. This data-driven approach ensures continuous improvement based on customer feedback.
->**Targeted Customer Acquisition:** By identifying positive sentiment trends associated with specific features (e.g., lower price, more beds/baths), Airbnb Paris can tailor its marketing strategies to attract customers who value those aspects.
->**Improved Customer Satisfaction:** Addressing concerns identified through negative sentiment can significantly improve customer satisfaction. This fosters loyalty and encourages positive reviews, attracting more customers.
->**Revenue Growth Potential:** By optimizing services based on customer preferences and addressing negative sentiment factors, Airbnb Paris can potentially attract a wider customer base and increase overall revenue.
->**Data-driven Decision Making:** This analysis demonstrates the effectiveness of sentiment analysis and clustering in understanding customer feedback and informing business decisions. This approach can be replicated for future strategies.
+>**Data-Driven Service Optimization:** Sentiment analysis of online reviews provided actionable insights for improving Airbnb Paris' service offerings and operational processes. This data-driven approach ensures continuous improvement based on customer feedback.\
+>**Targeted Customer Acquisition:** By identifying positive sentiment trends associated with specific features (e.g., lower price, more beds/baths), Airbnb Paris can tailor its marketing strategies to attract customers who value those aspects.\
+>**Improved Customer Satisfaction:** Addressing concerns identified through negative sentiment can significantly improve customer satisfaction. This fosters loyalty and encourages positive reviews, attracting more customers.\
+>**Revenue Growth Potential:** By optimizing services based on customer preferences and addressing negative sentiment factors, Airbnb Paris can potentially attract a wider customer base and increase overall revenue.\
+>**Data-driven Decision Making:** This analysis demonstrates the effectiveness of sentiment analysis and clustering in understanding customer feedback and informing business decisions. This approach can be replicated for future strategies.\
 
 Graph below depicts optimal number of clusters based on the sentiment score 
 
