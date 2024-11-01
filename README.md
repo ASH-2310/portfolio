@@ -3,7 +3,7 @@
 ### MS (*Specialization: Accounting & Analytics*) -                                                                                                                  2024 
 *Lahore University of Management Sciences*
 ### Relevant Courses: 
-Business Analytics, Business Intelligence, Analytics in Accounting, Advance Machine Learning, Data Science Decision Making, Information Systems, Supply Chain Analytics & Systems
+*Business Analytics, Business Intelligence, Analytics in Accounting, Advance Machine Learning, Data Science Decision Making, Information Systems, Supply Chain Analytics & Systems*
 ### BBA (*Specialization: Human Resource Management*) - 	 	                                                                                                         2023 
 *Forman Christian College (A Chartered university), Lahore*
 # Projects
@@ -33,7 +33,9 @@ This graph depicts a positive linear relationship between runs difference & wins
 
 ## [2. AirBnb Project](https://github.com/ASH-2310/AirBnB-Project)
 *(Improving AirBnb's service based revenue model by analyzing customer sentiment and identifying key trends in their feedback through clustering techniques.)*\
-Data Exploration was an important step to understand the actual problem
+### Exploratory Data Analysis(EDA)
+*Data Exploration was an important step to understand the actual problem*
+
 ![EDA](https://github.com/user-attachments/assets/f6678392-2303-4ac3-a27b-0f2953f38c21)
 
 ## Value Creation
@@ -44,8 +46,11 @@ Data Exploration was an important step to understand the actual problem
 >**Data-driven Decision Making:** This analysis demonstrates the effectiveness of sentiment analysis and clustering in understanding customer feedback and informing business decisions. This approach can be replicated for future strategies.
 
 Graph below depicts optimal number of clusters based on the sentiment score 
+
 ![Elbow Plot](https://github.com/user-attachments/assets/b4ebd1a7-32e8-471e-9821-dfcab5c753b2)
+
 Graph provided below suggests a significant difference in sentiment score for the two clusters
+
 ![Cluster Comparison](https://github.com/user-attachments/assets/2ca752e6-0bb6-4581-9831-4e55be883aed)
 
 ## Findings 
