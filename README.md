@@ -7,7 +7,7 @@ Business Analytics, Business Intelligence, Analytics in Accounting, Advance Mach
 ### BBA (*Specialization: Human Resource Management*) - 	 	                                                                                                         2023 
 *Forman Christian College (A Chartered university), Lahore*
 # Projects
-## [1.Sports Analytics Project](https://github.com/ASH-2310/Sports-Analytics-Project)
+## [1. Sports Analytics Project](https://github.com/ASH-2310/Sports-Analytics-Project)
 *(Performance & Win Forecast for Oakland Athletics using Linear & Logistic Regression)*
 ### Value Creation 
 >**Data-Driven Decision Making:** Demonstrated the power of data-driven decision making by applying advanced statistical techniques to optimize team performance and resource allocation.\
@@ -31,7 +31,32 @@ This graph depicts runs allowed vs wins with teams allowing less runs have a gre
 This graph depicts a positive linear relationship between runs difference & wins
 ![Image-3](https://github.com/user-attachments/assets/2d6052b5-e9dc-4dd3-b6ed-3995fec9659b)\
 
-## [2.AirBnb Project](https://github.com/ASH-2310/AirBnB-Project)
+## [2. AirBnb Project](https://github.com/ASH-2310/AirBnB-Project)
+*(Improving AirBnb's service based revenue model by analyzing customer sentiment and identifying key trends in their feedback through clustering techniques.)*\
+Data Exploration was an important step to understand the actual problem
+![EDA](https://github.com/user-attachments/assets/f6678392-2303-4ac3-a27b-0f2953f38c21)
+
+## Value Creation
+>**Data-Driven Service Optimization:** Sentiment analysis of online reviews provided actionable insights for improving Airbnb Paris' service offerings and operational processes. This data-driven approach ensures continuous improvement based on customer feedback.
+>**Targeted Customer Acquisition:** By identifying positive sentiment trends associated with specific features (e.g., lower price, more beds/baths), Airbnb Paris can tailor its marketing strategies to attract customers who value those aspects.
+>**Improved Customer Satisfaction:** Addressing concerns identified through negative sentiment can significantly improve customer satisfaction. This fosters loyalty and encourages positive reviews, attracting more customers.
+>**Revenue Growth Potential:** By optimizing services based on customer preferences and addressing negative sentiment factors, Airbnb Paris can potentially attract a wider customer base and increase overall revenue.
+>**Data-driven Decision Making:** This analysis demonstrates the effectiveness of sentiment analysis and clustering in understanding customer feedback and informing business decisions. This approach can be replicated for future strategies.
+
+Graph below depicts optimal number of clusters based on the sentiment score 
+![Elbow Plot](https://github.com/user-attachments/assets/b4ebd1a7-32e8-471e-9821-dfcab5c753b2)
+Graph provided below suggests a significant difference in sentiment score for the two clusters
+![Cluster Comparison](https://github.com/user-attachments/assets/2ca752e6-0bb6-4581-9831-4e55be883aed)
+
+## Findings 
+* Reduce average price for low performing properties
+* Reduce security deposit for low performing properties
+* Reduce cleaning fee
+* Provide extra beds for low performing properties
+* Increase baths
+
+
+
 
 
 
