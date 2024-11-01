@@ -7,7 +7,7 @@ Business Analytics, Business Intelligence, Analytics in Accounting, Advance Mach
 ### BBA (*Specialization: Human Resource Management*) - 	 	                                                                                                         2023 
 *Forman Christian College (A Chartered university), Lahore*
 # Projects
-## Sports Analytics Project
+## [1.Sports Analytics Project](https://github.com/ASH-2310/Sports-Analytics-Project)
 *(Performance & Win Forecast for Oakland Athletics using Linear & Logistic Regression)*
 ### Value Creation 
 >**Data-Driven Decision Making:** Demonstrated the power of data-driven decision making by applying advanced statistical techniques to optimize team performance and resource allocation.\
@@ -27,9 +27,12 @@ This graph depicts runs scored vs wins with non-playoff teams in red, playoff te
 ![Image-1](https://github.com/user-attachments/assets/bc819637-57a9-4f69-8d9b-55c7ccaf1f1b)\
 This graph depicts runs allowed vs wins with teams allowing less runs have a greater history of making it to the playoffs
 ![Image-2](https://github.com/user-attachments/assets/d386b99b-5ac3-46bc-a315-41b6ada7fb4d)\
+
 This graph depicts a positive linear relationship between runs difference & wins
 ![Image-3](https://github.com/user-attachments/assets/2d6052b5-e9dc-4dd3-b6ed-3995fec9659b)\
-For Details: [Sports-Analytics-Project](https://github.com/ASH-2310/Sports-Analytics-Project)
+
+## [2.AirBnb Project](https://github.com/ASH-2310/AirBnB-Project)
+
 
 
 
