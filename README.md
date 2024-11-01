@@ -59,13 +59,15 @@ Graph provided below suggests a significant difference in sentiment score for th
 ![Cluster Comparison](https://github.com/user-attachments/assets/2ca752e6-0bb6-4581-9831-4e55be883aed)
 
 ### Findings 
-*Here is what we can do to improve sentiment score based our findings*
+*Here is what we can do to improve sentiment score based on my findings*
 
 * Reduce average price for low performing properties
 * Reduce security deposit for low performing properties
 * Reduce cleaning fee
 * Provide extra beds for low performing properties
 * Increase bathrooms for low performing properties
+
+Considering these actionable insights from this analysis will help Airbnb Paris to improve customer ratings/reviews which will eventually improve their service based revenue model
 
 
 
